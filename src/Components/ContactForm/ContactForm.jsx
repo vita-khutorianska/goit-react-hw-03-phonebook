@@ -1,4 +1,4 @@
-import shortid from 'shortid';
+ import shortid from 'shortid';
 import { Component } from 'react';
 import styles from './ContactForm.module.css';
 class ContactForm extends Component {
